@@ -1,2 +1,2 @@
-# ngocuyen229.github.io
-Learning Github is fun.
+# linh.github.io
+Learning GitHub is fun
