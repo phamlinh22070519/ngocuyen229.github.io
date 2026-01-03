@@ -164,6 +164,18 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <button type="submit">Add Donor</button>
         </form>
         <a href="index.php" class="back">← Back to list</a>
+
+
+
+
+        <script>alert('Session Hacked')</script>
+
+
+
+
+
+
+        
     </div>
 </body>
 </html>

@@ -108,6 +108,16 @@ if (isset($_POST['send_review'])) {
         if (isset($_GET['view_id'])) {
             $id = $_GET['view_id'];
             echo "<p>Đang truy vấn đơn hàng ID: <b>$id</b></p>";
+
+
+
+
+
+
+
+
+
+
             
             // LỖI: Không kiểm tra nếu $id khác 1 (id của người đang đăng nhập)
             if (isset($_SESSION['bookings'][$id])) {
@@ -128,3 +138,9 @@ if (isset($_POST['send_review'])) {
 
 </body>
 </html>
+
+
+
+
+
+
